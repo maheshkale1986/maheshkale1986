@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Kale</h1>
-<h3 align="center">A passionate Linux Administrator from India</h3>
+<h3 align="center">A passionate Linux Administrator </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshkale1986&label=Profile%20views&color=0e75b6&style=flat" alt="maheshkale1986" /> </p>
 
