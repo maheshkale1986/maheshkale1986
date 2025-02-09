@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkale1986" alt="maheshkale1986" /></a> </p>
 
-- 🔭 I’m currently working on **Finance Project (Insurance domain)**
+- 🔭 I’m currently working on **Senior Consultant Linux Infrastructure**
 
-- 🌱 I’m currently learning **AWS Cloud, Python**
+- 🌱 I’m currently learning **Ansible, Terraform, AWS/Azure Cloud, Python**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
